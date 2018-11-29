@@ -1,0 +1,19 @@
+{
+  "name": "less_study",
+  "version": "1.0.0",
+  "description": "less study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WxyNeverGiveUp/less_study.git"
+  },
+  "author": "wuxy720",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WxyNeverGiveUp/less_study/issues"
+  },
+  "homepage": "https://github.com/WxyNeverGiveUp/less_study#readme"
+}
